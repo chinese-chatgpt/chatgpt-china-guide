@@ -1,12 +1,12 @@
 # ChatGPT 中文版：国内直连访问指南（支持GPT-4，无需翻墙）【5月持续更新】
 
-> **更新日期：2025/05/14**          
+> **更新日期：2025/05/15**          
 
-全面体验 **[ChatGPT 中文版](https://chat.lanjing.pro)使用指南**，推荐**国内直连**的 **[ChatGPT 镜像网站](https://chat.lanjing.pro)**，**支持GPT-4，无需翻墙**。   
-本项目为用户提供最好的 **[ChatGPT 中文版](https://chat.lanjing.pro)使用指南**，同时整理了国内可用的 [**ChatGPT镜像网站**](https://chat.xsimple.top) 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
+全面体验 **[ChatGPT 中文版](https://chat.lanjing.pro)使用指南**，推荐**国内直连**的 **[ChatGPT 镜像网站](https://xsimplechat.com)**，**支持GPT-4，无需翻墙**。   
+本项目为用户提供最好的 **[ChatGPT 中文版](https://chat.lanjing.pro)使用指南**，同时整理了国内可用的 [**ChatGPT镜像网站**](https://xsimplechat.com) 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
 **ChatGPT 中文版**入口：**[https://chat.chatgpt-chinese.com](https://chat.lanjing.pro)**   
-**ChatGPT 镜像网站**：**[https://chat.xsimple.top](https://chat.xsimple.top)**
+**ChatGPT 镜像网站**：**[https://xsimplechat.com](https://xsimplechat.com)**
 
 ---
 
@@ -35,7 +35,7 @@
 
 | **镜像站地址**       | **支持版本**         | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|---------------------|--------------|---------------------|------------|---------------------------------------------|
-| [chat.yixiaai.com](https://chat.xsimple.top)   | GPT-4, GPT-3.5，deepseek-r1，GPT-o3 | 有              | 微信扫码使用        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
+| [chat.yixiaai.com](https://xsimplechat.com)   | GPT-4, GPT-3.5，deepseek-r1，GPT-o3 | 有              | 微信扫码使用        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
 | [chat.lanjing.pro](https://chat.lanjing.pro)         | GPT-4, GPT-o1, Claude, deepseek-r1,GPT-o3  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
 | [chat.lify.vip](https://chat.yixiaai.com) | GPT-4, GPT-3.5 | 有              | 微信扫码使用        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
 | [chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com)   | GPT-3.5        | 有              | 微信扫码使用        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
